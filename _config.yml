@@ -20,8 +20,8 @@ email: mzepf@umich.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: https://github.com/MatthewZepf
-linkedin_username: https://www.linkedin.com/in/matthew-zepf/
+github_username: MatthewZepf
+linkedin_username: matthew-zepf
 
 # ABOUT ME SECTION
 # show_aboutme_card:
