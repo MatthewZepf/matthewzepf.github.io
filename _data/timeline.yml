@@ -17,42 +17,38 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Techsmith
+  title-url: https://www.techsmith.com/
+  date: May 2023 - August 2023
+  subtitle: Software Testing Intern
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: C++
+    - tag: Agile
+    - tag: Testing
   timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  
+- title: Techsmith
+  title-url: https://www.techsmith.com/
+  date: May 2024 - August 2024
+  subtitle: Software Testing Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: N/A
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  
+- title: Michigan Hackers 
+  title-url: https://michhackers.com/
+  date: Sep 2023 - Present
+  subtitle: Security Lead
+  tags:
+    - tag: Python
+    - tag: CTFs
   timeline-side: left
 
-- title: Facebook
+- title: University of Michigan Ann Arbor
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
+  date: 2021 - Present
+  subtitle: B.S. Computer Science minors in philosophy and astrophysics
+  timeline-side: left
 
 - title: Super University
   title-url: https://example.com/
