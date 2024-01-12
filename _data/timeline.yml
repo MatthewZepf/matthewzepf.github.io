@@ -16,6 +16,22 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Techsmith
+  title-url: https://www.techsmith.com/
+  date: Summer 2024
+  subtitle: Software Engineering Intern
+  tags:
+    - tag: N/A
+  timeline-side: right
+
+- title: Michigan Hackers 
+  title-url: https://michhackers.com/
+  date: Sep 2022 - Present
+  subtitle: Security Lead
+  tags:
+    - tag: Python
+    - tag: CTFs
+  timeline-side: left
 
 - title: Techsmith
   title-url: https://www.techsmith.com/
@@ -27,22 +43,6 @@
     - tag: Testing
   timeline-side: right
   
-- title: Techsmith
-  title-url: https://www.techsmith.com/
-  date: May 2024 - August 2024
-  subtitle: Software Testing Intern
-  tags:
-    - tag: N/A
-  timeline-side: right
-  
-- title: Michigan Hackers 
-  title-url: https://michhackers.com/
-  date: Sep 2023 - Present
-  subtitle: Security Lead
-  tags:
-    - tag: Python
-    - tag: CTFs
-  timeline-side: left
 
 - title: University of Michigan Ann Arbor
   title-url: https://example.com/
