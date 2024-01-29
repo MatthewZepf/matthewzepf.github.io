@@ -22,23 +22,23 @@
     - tag: Data Structures
     - tag: Abstract Data Types
 
-name: Waitlist Scraper
-descr: "Python script to scrape waitlist data from the LSA course guide that can be configured for any course and send email notifications whenever there are open seats or the waitlist is short."
+- name: Waitlist Scraper
+  descr: "Python script to scrape waitlist data from the LSA course guide that can be configured for any course and send email notifications whenever there are open seats or the waitlist is short."
   tags:
     - tag: Python
     - tag: BeautifulSoup
     - tag: Web Scraping
     - tag: SMTP
 
-name: Search Engine (EECS 485)
-descr: "Built a comprehensive search engine project that delves into advanced concepts such as information retrieval, text analysis (tf-idf), link analysis (PageRank), and parallel data processing using MapReduce. The project emphasizes the implementation of a Service-Oriented Architecture to scale dynamic pages and web search, resulting in a fully functional search engine reminiscent of popular platforms like Google or Bing."
-tags:
-- tag: Python
-- tag: REST API
-- tag: Data Analysis
-- tag: Text Analysis
-- tag: Link Analysis
-- tag: MapReduce
-- tag: Service-Oriented Architecture
-- tag: Web Search
-- tag: Search Engine
+- name: Search Engine (EECS 485)
+  descr: "Built a comprehensive search engine project that delves into advanced concepts such as information retrieval, text analysis (tf-idf), link analysis (PageRank), and parallel data processing using MapReduce. The project emphasizes the implementation of a Service-Oriented Architecture to scale dynamic pages and web search, resulting in a fully functional search engine reminiscent of popular platforms like Google or Bing."
+  tags:
+    - tag: Python
+    - tag: REST API
+    - tag: Data Analysis
+    - tag: Text Analysis
+    - tag: Link Analysis
+    - tag: MapReduce
+    - tag: Service-Oriented Architecture
+    - tag: Web Search
+    - tag: Search Engine
