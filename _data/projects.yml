@@ -13,21 +13,22 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Yamslam Game
+  descr: "Recreation of the Yamslam game in C++, with the goal of recursively determining the best die to roll to ensure the highest expected value. Yamslam is a dice rolling game similar to Yahtzee."
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: C++
+    - tag: Git
+    - tag: Dynamic Programming
+    - tag: Data Structures
+    - tag: Abstract Data Types
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+name: Waitlist Scraper
+descr: "Python script to scrape waitlist data from the LSA course guide that can be configured for any course and send email notifications whenever there are open seats or the waitlist is short."
   tags:
     - tag: Python
-    - tag: Django
+    - tag: BeautifulSoup
+    - tag: Web Scraping
+    - tag: SMTP
 
 - name: project Z
   descr: "You can also set a project without demo link and no tags"
