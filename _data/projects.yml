@@ -30,5 +30,15 @@ descr: "Python script to scrape waitlist data from the LSA course guide that can
     - tag: Web Scraping
     - tag: SMTP
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+name: Search Engine (EECS 485)
+descr: "Built a comprehensive search engine project that delves into advanced concepts such as information retrieval, text analysis (tf-idf), link analysis (PageRank), and parallel data processing using MapReduce. The project emphasizes the implementation of a Service-Oriented Architecture to scale dynamic pages and web search, resulting in a fully functional search engine reminiscent of popular platforms like Google or Bing."
+tags:
+- tag: Python
+- tag: REST API
+- tag: Data Analysis
+- tag: Text Analysis
+- tag: Link Analysis
+- tag: MapReduce
+- tag: Service-Oriented Architecture
+- tag: Web Search
+- tag: Search Engine
