@@ -11,9 +11,6 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
-  weight: 2
-
 - name: npm
   weight: 2
 
