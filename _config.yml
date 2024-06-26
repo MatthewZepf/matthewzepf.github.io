@@ -31,7 +31,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi! I'm Matthew! I'm a junior studying Computer Science with minors in Philosophy and Astrophysics at the University of Michigan where I lead the Hackers Security Team. Professionally, I've interned in QA at TechSmith and I am happy to be returning as a Software Engineering Intern. Beyond tech and school, I love to play and compete in various games from soccer and chess to volleyball.
+about_me_description: Hi! I'm Matthew! I'm a Senior studying Computer Science with minors in Philosophy and Astrophysics at the University of Michigan where I am President of the Michigan Hackers club. Professionally I have interned at TechSmith for the summers of 2023 and 2024. In my time there I have developed many new features such as Step Capture and Optical Character Recognition. Beyond tech and school, I love to play and compete in various games from soccer and chess to volleyball.
 
 # SKILLS SECTION
 # show_skills_card:
