@@ -21,8 +21,12 @@
   date: Summer 2024
   subtitle: Software Engineering Intern
   tags:
-    - tag: N/A
+    - tag: C++
+    - tag: C#
+    - tag: Git & Github
+    - tag: Azure Pipelines
   timeline-side: right
+
 
 - title: Michigan Hackers 
   title-url: https://michhackers.com/
