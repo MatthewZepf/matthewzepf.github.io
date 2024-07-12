@@ -28,14 +28,25 @@
   timeline-side: right
 
 
+- title: Michigan Hackers
+  title-url: https://michhackers.com/
+  date: May 2024 - Present
+  subtitle: President
+  tags:
+    - tag: Leadership
+    - tag: Management
+  timeline-side: left
+
+
 - title: Michigan Hackers 
   title-url: https://michhackers.com/
-  date: Sep 2022 - Present
+  date: Sep 2022 - May 2024
   subtitle: Security Lead
   tags:
     - tag: Python
     - tag: CTFs
   timeline-side: left
+
 
 - title: Techsmith
   title-url: https://www.techsmith.com/
